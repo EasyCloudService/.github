@@ -20,6 +20,4 @@ We only support Java 21.
 ### Head-Developer
 - [@FlxwDNS](https://www.github.com/flxwdns)
 - [@1Chickxn](https://www.github.com/1chickxn)
-### Bug-Hunter
 - [@Swerion](https://www.github.com/swerion)
-
