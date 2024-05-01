@@ -3,6 +3,9 @@
 # TheEasyCloud
 
 Welcome to `TheEasyCloud`! If you're looking for the perfect Minecraft cloud, you've come to the right place. We provide a seamless and efficient cloud for Minecraft servers.
+
+Releases: https://github.com/TheEasyCloud/cloud/releases
+
 ## FAQ
 
 #### Which version does you support?
