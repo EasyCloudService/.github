@@ -1,5 +1,5 @@
 
-![Logo](https://media.discordapp.net/attachments/1235228963404648531/1235238078788931654/Logo.png?ex=6633a49b&is=6632531b&hm=e86e307bbda95995bd11607e346f54b91149dfa706eecd5098dfa49639639272&=&format=webp&quality=lossless&width=1178&height=400)
+![Logo](https://easycloudservice.de/cdn/banner.png)
 # EasyCloudService
 
 Welcome to `EasyCloudService`! If you're looking for the perfect Minecraft cloud, you've come to the right place. We provide a seamless and efficient cloud for Minecraft servers.
