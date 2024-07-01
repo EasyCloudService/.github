@@ -9,7 +9,7 @@ Releases: https://github.com/EasyCloudService/cloud/releases
 ## FAQ
 
 #### Which version does you support?
-We support Paper 1.16 to Paper 1.20.6
+We support Paper 1.16 to Paper 1.21
 
 #### Can I use 1.20 or lower with Java 21
 Yes, we implemented that feature.
