@@ -1,5 +1,6 @@
 
-![Logo](https://easycloudservice.de/cdn/banner.png)
+![168655312-removebg-preview](https://github.com/user-attachments/assets/3547e5d0-95be-4188-8852-2cf1afea2004)
+
 # EasyCloudService
 
 Welcome to `EasyCloudService`! If you're looking for the perfect Minecraft cloud, you've come to the right place. We provide a seamless and efficient cloud for Minecraft servers.
