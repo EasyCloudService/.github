@@ -12,7 +12,7 @@ Your ultimate solution for a seamless and efficient **Minecraft cloud**. If you'
 ## ❓ FAQ
 
 ### 🔹 Which versions are supported?  
-We support **Paper 1.16 – Paper 1.21**.  
+We support **Paper 1.17 – Paper 1.21**.  
 
 ### 🔹 Can I run Minecraft 1.20 or lower with Java 21?  
 Yes, we have implemented full support for that.  
@@ -27,4 +27,3 @@ The cloud runs exclusively on **Java 21**.
 ### 🔧 Head Developers  
 - [@FlxwDNS](https://www.github.com/flxwdns)  
 - [@1Chickxn](https://www.github.com/1chickxn)  
-- [@Swerion](https://www.github.com/swerion)  
