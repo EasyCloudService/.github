@@ -24,6 +24,5 @@ The cloud runs exclusively on **Java 21**.
 
 ## 👥 Our Team  
 
-### 🔧 Head Developers  
-- [@FlxwDNS](https://www.github.com/flxwdns)  
-- [@1Chickxn](https://www.github.com/1chickxn)  
+### 🔧 Head Developer
+- [@FlxwDNS](https://www.github.com/flxwdns)
